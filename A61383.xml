@@ -3735,12 +3735,36 @@ when they begin a won
 but are underſtood
 by Places.</head>
                <milestone type="tcpmilestone" unit="unspecified" n="25"/>
-               <figure>
-                  <p>a e i o u</p>
-               </figure>
-               <figure>
-                  <p>a e i o u</p>
-               </figure>
+               <p>The Vowels places 
+<figure>
+                     <p>a e i o u</p>
+                  </figure>
+                  <figure>
+                     <p>a e i o u</p>
+                  </figure>
+When a word ends
+with a Vowel pur a tittle
+in the place of it<list>
+                     <item>ba, be, <gap reason="symbol" extent="1 letter">
+                           <desc>〈☐〉</desc>
+                        </gap> ra re <gap reason="symbol" extent="1 letter">
+                           <desc>〈☐〉</desc>
+                        </gap>
+                     </item>
+                     <item>bi, <gap reason="symbol" extent="1 letter">
+                           <desc>〈☐〉</desc>
+                        </gap> ri <gap reason="symbol" extent="1 letter">
+                           <desc>〈☐〉</desc>
+                        </gap>
+                     </item>
+                     <item>bo, bu <gap reason="symbol" extent="1 letter">
+                           <desc>〈☐〉</desc>
+                        </gap> ro, ru <gap reason="symbol" extent="1 letter">
+                           <desc>〈☐〉</desc>
+                        </gap>
+                     </item>
+                  </list>
+               </p>
                <p>When a word ends
 with a Conſonant ſet
 it in the Vowels place
@@ -4819,12 +4843,16 @@ Interrogatives, and
 placeing of the Tenſes
 in Order</head>
                <milestone type="tcpmilestone" unit="unspecified" n="32"/>
-               <figure>
-                  <p>tha he, we j thou, you.</p>
-               </figure>
-               <figure>
-                  <p>tha he we j thou, you</p>
-               </figure>
+               <p>The places of y<hi rend="sup">e</hi> Perſons
+are according to the
+ſound of their Vowels.
+<figure>
+                     <p>tha he, we j thou, you.</p>
+                  </figure>
+                  <figure>
+                     <p>tha he we j thou, you</p>
+                  </figure>
+               </p>
                <p>Note the place for we
 &amp; you is ſomwhat more
 diſtant from y<hi rend="sup">e</hi> Letter
